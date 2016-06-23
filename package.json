@@ -37,5 +37,22 @@
   },
   "eslintConfig": {
     "extends": "google"
-  }
+  },
+  "name": "playground",
+  "description": "## Overview",
+  "version": "1.0.0",
+  "main": "gulpfile.babel.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febrachim/playground.git"
+  },
+  "keywords": [
+    "playground"
+  ],
+  "author": "febrachim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febrachim/playground/issues"
+  },
+  "homepage": "https://github.com/febrachim/playground#readme"
 }
