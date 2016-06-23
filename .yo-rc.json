@@ -41,12 +41,12 @@
         "module": "ui.router"
       },
       "ui": {
-        "key": "foundation",
+        "key": "bootstrap",
         "module": null
       },
-      "foundationComponents": {
-        "key": "angular-foundation",
-        "module": "mm.foundation"
+      "bootstrapComponents": {
+        "key": "ui-bootstrap",
+        "module": "ui.bootstrap"
       },
       "cssPreprocessor": {
         "key": "node-sass",
@@ -61,7 +61,7 @@
         "key": "noHtmlPrepro",
         "extension": "html"
       },
-      "bootstrapComponents": {
+      "foundationComponents": {
         "name": null,
         "version": null,
         "key": null,
